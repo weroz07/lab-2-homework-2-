@@ -30,7 +30,7 @@
 
 ## 2. Реализация программы
 
-```c
+```
 #include <stdio.h>
 #include <locale.h>
 
@@ -64,7 +64,11 @@ int main() {
     
     return 0;
 }
+```
+## 3.Результат работы программы
+<img width="557" height="390" alt="Снимок экрана 2025-09-29 232458" src="https://github.com/user-attachments/assets/29a6ac61-9617-44cb-9b56-b311ed08a443" />
 
 
-<img width="557" height="390" alt="Снимок экрана 2025-09-29 232458" src="https://github.com/user-attachments/assets/e75e489b-7b0d-4676-89e1-fcae309d8907" />
+
+
 
