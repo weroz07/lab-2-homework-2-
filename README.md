@@ -64,7 +64,7 @@ int main() {
     
     return 0;
 }
-## 3.Результаты работы программы
+
 
 <img width="557" height="390" alt="Снимок экрана 2025-09-29 232458" src="https://github.com/user-attachments/assets/e75e489b-7b0d-4676-89e1-fcae309d8907" />
 
