@@ -65,5 +65,5 @@ int main() {
     return 0;
 }
 ## 3.Результаты работы программы
-<img width="542" height="347" alt="image" src="https://github.com/user-attachments/assets/0fd211f8-2bd2-4c36-bdfd-20c44fbda4f7" />
+<img width="557" height="390" alt="image" src="https://github.com/user-attachments/assets/695770e0-3840-4383-bdf4-ecb3c2bfae50" />
 
