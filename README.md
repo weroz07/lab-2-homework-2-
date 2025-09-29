@@ -65,5 +65,6 @@ int main() {
     return 0;
 }
 ## 3.Результаты работы программы
-![photo_2025-09-29_23-25-42](https://github.com/user-attachments/assets/5b5add7d-bb19-4d43-be58-06972b7089ca)
+
+<img width="557" height="390" alt="Снимок экрана 2025-09-29 232458" src="https://github.com/user-attachments/assets/e75e489b-7b0d-4676-89e1-fcae309d8907" />
 
