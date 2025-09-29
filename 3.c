@@ -1,4 +1,4 @@
-//№3
+//В№3
 #include <stdio.h>
 #include <locale.h>
 
@@ -8,12 +8,13 @@ int main() {
     int L = 2333;
     float res = (float)n / L;
 
-    printf("Дано:\n");
+    printf("Р”Р°РЅРѕ:\n");
     printf("%13d\n", n);
     printf("%13d\n", L);
     printf("--------------------\n");
-    printf("Результат:\n");
+    printf("Р РµР·СѓР»СЊС‚Р°С‚:\n");
     printf("%8c %+010.5f\n", ' ', res);
 
     return 0;
 }
+
