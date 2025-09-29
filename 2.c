@@ -5,8 +5,8 @@
 int main()
 {
     setlocale(LC_CTYPE, "RUS");
-    int n = 14;// *÷àñèêè*
-    int k = 35;// *ìèíóòêè*
+    int n = 14;// *часики*
+    int k = 35;// *минутки*
 
     printf("Текущее время %d час(ов), %d минут(ы), 00 секунд", n, k);
 
@@ -21,3 +21,4 @@ int main()
     return 0;
 
 }
+
